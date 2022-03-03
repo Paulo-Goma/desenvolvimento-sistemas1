@@ -1,7 +1,7 @@
 # desenvolvimento-sistemas1
 Grupo: Louis, Luma, Paulo
 
-first project
+First Project
 
 
 Aplicativo que mostra os locais certos para descarte de chips, baterias usados.
@@ -14,7 +14,7 @@ Aplicativo que mostra os locais certos para descarte de chips, baterias usados.
 
 4. Os usuários são pessoas que utilizam aparelhos eletrônicos, adultos e jovens. As pessoas que estão envolvidas são desenvolvedoras de software, designer gráfico. Os clientes são pessoas interessadas em ajudar na demanda de chips, pessoas preocupadas com o meio ambiente porque dependendo de como os chips e baterias são descartadas podem prejudicar a poluição.
 
-5. É necessário que empresas que trabalham disponibilizem mapas para poder divulgar pontos específicos que possuem descarte de lixo de chips e baterias e consiga disponibilizar a edição de ícones no próprio mapa.
+5. É necessário que empresas que trabalham disponibilizem mapas para poder divulgar pontos específicos que possuem descarte de lixo de chips e baterias e consiga disponibilizar a edição/adição de ícones no próprio mapa. Para o app (como vamos faze-lo/desenvolve-lo), quando tivermos a ideia mais amadurecida, vamos discutir melhor a forma mais adequada de começar ele.
 
 6. Os recursos que precisamos são os mapas para registrar onde está o lixo, os programas para desenvolver o aplicativo.
 
