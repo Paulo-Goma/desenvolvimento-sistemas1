@@ -19,3 +19,5 @@ Aplicativo que mostra os locais certos para descarte de chips, baterias usados.
 7. Para os produtos ter qualidade necessita que o chip e a bateria não estejam quebrados, que consiga funcionar em aparelhos compatíveis, não esteja com problemas nos sistemas deles.
 
 8. O risco é que esse aplicativo não terá alcance suficiente de pessoas para descartar esses chips e baterias e não conseguirá ter a demanda de chips para reutiliza-los. E também que o mapa não mostre os lugares certos onde descartar esses chips e baterias.
+
+OBS.: inicialmente pretendemos manter assim, mas com a possibilidade de incrementar e disponibilizar quem sabe outros tipos de materiais para reciclagem, de acordo com a necessidade, ou mesmo criar outras opções visando facilitar o acesso ao descarte adequado.
